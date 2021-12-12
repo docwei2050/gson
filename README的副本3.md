@@ -6,6 +6,7 @@ A `Converter` which uses [Gson][1] for serialization to and from JSON.
 A default `Gson` instance will be created or one can be configured and passed to the
 `GsonConverterFactory` to further control the serialization.
 
+我是第一个人
 
 Download
 --------
